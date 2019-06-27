@@ -1,0 +1,62 @@
+
+.summary {
+    text-decoration: underline;
+    font-family: fantasy;
+      color:white;
+    font-size: 30px;
+  }
+  .obj {
+    text-decoration: underline;
+    font-family: Fantasy;
+    font-size: 30px;
+  }
+  .exp{
+    text-decoration: underline;
+    font-family: Fantasy;
+    font-size: 30px;
+  }
+  .edu{
+    text-decoration: underline;
+    font-family: Fantasy;
+    font-size: 30px;
+  }
+  .volunteer{
+      text-decoration: underline;
+    font-family: Fantasy;
+    font-size: 30px;
+  }
+  .Skills{
+      text-decoration: underline;
+    font-family: Fantasy;
+    font-size: 30px;
+  }
+  body {
+     
+   background-image: url("Images/Beach.jpg");
+    color: white;
+    background-size: 1500px 1500px;
+  }
+  .left{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 600px;
+    height: 150px;
+  }
+  .right img {
+    width: 100px;
+    height: 100px;
+    float: right;
+  }
+  .right {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    height: 150px;
+    width: 600px;
+  }
+  .top {
+      width: 1400px;
+      height: 200px;
+      display: inline-flex;
+  }
